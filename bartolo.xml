@@ -17,6 +17,6 @@
 </item>
 
     <item>
-    <favourite name="[COLOR lime][B]2. Alfadd[/B][/COLOR]" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.alfa/&quot;,return)</favourite>
+    <onclick>ActivateWindow(10025,&quot;plugin://plugin.video.alfa/&quot;,return)</onclick>
     <item>
      </items>
