@@ -16,8 +16,7 @@
 <thumbnail>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</thumbnail>
 </item>
 
-    <item><title>[COLOR lime][B]2. Alfa[/B][/COLOR]</title>
-        <link>plugin://plugin.video.alfa</link>
-        <onclick>plugin://plugin.video.alfa</onclick>
-    </item>
-</items>
+    <item>
+    <favourite name="[COLOR lime][B]2. Alfa[/B][/COLOR]" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.alfa/&quot;,return)</favourite>
+    <item>
+     </items>
