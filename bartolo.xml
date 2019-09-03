@@ -17,6 +17,7 @@
 </item>
 
     <item><title>[COLOR lime][B]2. Alfa[/B][/COLOR]</title>
+        <link>http://ignoreme</link>
         <onclick>ActivateWindow(plugin://plugin.video.alfa/</onclick>
     </item>
 </items>
