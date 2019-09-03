@@ -19,3 +19,4 @@
     <item><title>[COLOR lime][B]2. Alfa[/B][/COLOR]</title>
         <onclick name="[COLOR lime][B]2. Alfa[/B][/COLOR]" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.alfa/&quot;,return)</onclick>
     </item>
+</items>
