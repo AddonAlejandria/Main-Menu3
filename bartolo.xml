@@ -17,6 +17,6 @@
 </item>
 
     <item><title>bartolando</title>
-    <onclick>RunAddon(plugin.video.alfa)</onclick> )</onclick>
+    <onclick>RunAddon(plugin.video.alfa)</onclick> 
     <item>
      </items>
