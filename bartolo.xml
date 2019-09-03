@@ -15,7 +15,6 @@
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <thumbnail>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</thumbnail>
 </item>
-<item>
 
     <item><title>[COLOR lime][B]2. Alfa[/B][/COLOR]</title>
         <onclick name="[COLOR lime][B]2. Alfa[/B][/COLOR]" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.alfa/&quot;,return)</onclick>
