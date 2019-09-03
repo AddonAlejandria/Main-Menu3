@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
     <items_info>
-      <title>Addon Alejandria</title>
+      <title>Addon Alejandria</title><info></info>
       <description>Addon Alejandria</description>
       <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-      <fanart></fanart>
+      <thumbnail></thumbnail>
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
 
 <item>  
-<title>[COLOR aqua]Addon Alejandria[/COLOR]</title> 
-<urlsolve></urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item> 
+<title>[COLOR aqua]Addon Alejandria[/COLOR]</title>
 
-    <item><title>Test</title><!-- File manager --><link>http://ignoreme</link>
-<urlsolve>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJsaXN0YSIsIAogICAgImNhdGVnb3J5IjogImNpbmVvbmxpbmUiLCAKICAgICJjaGFubmVsIjogImNpbmVvbmxpbmUiLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjaGFubmVsX2NvbmZpZyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZXR0aW5nIiwgCiAgICAgICAgICAgICJjb25maWciOiAiY2luZW9ubGluZSIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibGlzdGEiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJjaW5lb25saW5lIiwgCiAgICAgICAgICAgICJ0aXRsZSI6ICJDb25maWd1cmFyIGNhbmFsIgogICAgICAgIH0KICAgIF0sIAogICAgImZhbmFydCI6ICIiLCAKICAgICJmcmVxdWVuY3kiOiAxLCAKICAgICJpbmZvTGFiZWxzIjogewogICAgICAgICJtZWRpYXR5cGUiOiAibGlzdCIsIAogICAgICAgICJwbG90IjogIltDT0xPUiB5ZWxsb3ddVGlwbyBkZSBjb250ZW5pZG86Wy9DT0xPUl0gUGVsXHUwMGVkY3VsYXNcblxuW0NPTE9SIHllbGxvd11JZGlvbWFzOlsvQ09MT1JdIENhc3RlbGxhbm8sIExhdGlubyIKICAgIH0sIAogICAgImxhbmd1YWdlIjogWwogICAgICAgICJjYXN0IiwgCiAgICAgICAgImxhdCIKICAgIF0sIAogICAgInRodW1ibmFpbCI6ICJodHRwczovL3d3dy5jaW5lLW9ubGluZS5ldS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC9DSU5FLWxvZ28tYnVlbm8ucG5nIiwgCiAgICAidGl0bGUiOiAiTm92ZWRhZGVzIiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInVybCI6ICJodHRwczovL3d3dy5jaW5lLW9ubGluZS5ldSIsIAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3d</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<thumbnail>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</thumbnail>
 </item>
+<item>
+
+  
+    
+<item><title>Test</title>
+<info></info><thumbnail></thumbnail>
+    <fanart></fanart>
+    <urlsolve>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJsaXN0YSIsIAogICAgImNhdGVnb3J5IjogImNpbmVvbmxpbmUiLCAKICAgICJjaGFubmVsIjogImNpbmVvbmxpbmUiLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjaGFubmVsX2NvbmZpZyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZXR0aW5nIiwgCiAgICAgICAgICAgICJjb25maWciOiAiY2luZW9ubGluZSIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibGlzdGEiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJjaW5lb25saW5lIiwgCiAgICAgICAgICAgICJ0aXRsZSI6ICJDb25maWd1cmFyIGNhbmFsIgogICAgICAgIH0KICAgIF0sIAogICAgImZhbmFydCI6ICIiLCAKICAgICJmcmVxdWVuY3kiOiAxLCAKICAgICJpbmZvTGFiZWxzIjogewogICAgICAgICJtZWRpYXR5cGUiOiAibGlzdCIsIAogICAgICAgICJwbG90IjogIltDT0xPUiB5ZWxsb3ddVGlwbyBkZSBjb250ZW5pZG86Wy9DT0xPUl0gUGVsXHUwMGVkY3VsYXNcblxuW0NPTE9SIHllbGxvd11JZGlvbWFzOlsvQ09MT1JdIENhc3RlbGxhbm8sIExhdGlubyIKICAgIH0sIAogICAgImxhbmd1YWdlIjogWwogICAgICAgICJjYXN0IiwgCiAgICAgICAgImxhdCIKICAgIF0sIAogICAgInRodW1ibmFpbCI6ICJodHRwczovL3d3dy5jaW5lLW9ubGluZS5ldS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC9DSU5FLWxvZ28tYnVlbm8ucG5nIiwgCiAgICAidGl0bGUiOiAiTm92ZWRhZGVzIiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInVybCI6ICJodHRwczovL3d3dy5jaW5lLW9ubGluZS5ldSIsIAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3d</urlsolve></item>
+
+
